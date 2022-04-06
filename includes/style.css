@@ -1,0 +1,243 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .custom-row {
+  max-width: 1140px;
+
+  margin: 0 auto;
+} */
+
+.content-nav {
+  /* position: relative; */
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 2px 2px #efefef;
+  border: 1px solid #d8d8d8;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.content-nav-ul {
+  margin-top: 15px;
+  float: left;
+  list-style: none;
+}
+
+.content-nav-ul li {
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.content-nav-ul li a {
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.table-content {
+  border-collapse: collapse; /* reducing the amount of space between the cell*/
+  margin: 50px auto 0 auto;
+  font-size: 20px;
+  position: relative;
+}
+
+.table-content thead tr {
+  background-color: #08a888;
+  color: aliceblue;
+  font-weight: bold;
+  text-align: left;
+}
+
+.table-content th,
+.table-content td {
+  padding: 12px 15px;
+}
+
+.custom-container {
+  padding: 20px 50px;
+}
+
+.text-box {
+  position: absolute;
+  top: 50%;
+  left: 11%;
+}
+
+.license-name {
+  text-decoration: none;
+}
+
+.license-desc {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.team-link {
+  text-decoration: none;
+  color: rgb(76, 66, 218);
+}
+
+.my_form {
+  padding: 10px;
+}
+.heading3 {
+  margin-bottom: 5px;
+}
+
+.invalid_paragraph {
+  color: red;
+  font-weight: 700;
+}
+.nav-default {
+  list-style: none;
+  color: aqua;
+}
+.nav-default a {
+  list-style: none;
+  color: rgb(146, 146, 146);
+}
+
+.username {
+  font-size: 15px;
+  color: #188eee;
+}
+.nav-user {
+  text-decoration: none;
+}
+
+.dropdown-text {
+  color: white;
+}
+
+.navbar-style {
+  margin-right: 10px;
+}
+/* navigation.php  
+<style> 
+.btn-submit:link,
+.btn-submit:visited {
+  border: 1px solid #AF0404;
+  color: #AF0404;
+}
+
+.btn-submit:hover,
+.btn-submit:active {
+  border: 1px solid #AF0404;
+  background-color: #AF0404;
+  color: #fff;
+}
+</style> --> */
+
+/* --------------------------------------------------------------------------------------- */
+
+/* main.php 
+<style>
+.btn-darkBlue:link,
+.btn-darkBlue:visited {
+  border: 1px solid #0F4C75;
+  color: #0F4C75;
+}
+
+.btn-darkBlue:hover,
+.btn-darkBlue:active {
+  border: 1px solid #0F4C75;
+  background-color: #0F4C75;
+  color: #fff;
+}
+.btn-cloudBlue:link,
+.btn-cloudBlue:visited {
+  border: 1px solid #3282B8;
+  color: #3282B8;
+}
+
+.btn-cloudBlue:hover,
+.btn-cloudBlue:active {
+  border: 1px solid #3282B8;
+  background-color: #3282B8;
+  color: #fff;
+}
+
+.btn-priDark:link,
+.btn-priDark:visited {
+  border: 1px solid #313131;
+  color: #313131;
+}
+
+.btn-priDark:hover,
+.btn-priDark:active {
+  border: 1px solid #313131;
+  background-color: #313131;
+  color: #fff;
+}
+
+.btn-secDark:link,
+.btn-secDark:visited {
+  border: 1px solid #414141;
+  color: #414141;
+}
+
+.btn-secDark:hover,
+.btn-secDark:active {
+  border: 1px solid #414141;
+  background-color: #414141;
+  color: #fff;
+}
+
+.btn-lightDark:link,
+.btn-lightDark:visited {
+  border: 1px solid #525252;
+  color: #525252;
+}
+
+.btn-lightDark:hover,
+.btn-lightDark:active {
+  border: 1px solid #525252;
+  background-color: #525252;
+  color: #fff;
+}
+
+.license-name:link,
+.license-name:visited {
+  text-decoration: none;
+  color: #414141;
+}
+.license-name:hover,
+.license-name:active {
+  text-decoration: none;
+  color: #252525;
+}
+.btn-priDelete:link,
+.btn-priDelete:visited {
+  border: 1px solid #CA3E47;
+  color: #CA3E47;
+}
+
+.btn-priDelete:hover,
+.btn-priDelete:active {
+  border: 1px solid #FF0000;
+  background-color: #FF0000;
+  color: #fff;
+}
+
+</style>  */
+
+/* --------------------------------------------------------------------------------------- */
+
+/* sideBar.php */
+/* <style>
+.well {
+  min-height: 5px;
+  
+  margin-bottom: 10px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+.align {
+  margin-top: 10px;
+  margin: 10 auto;
+}
+</style>  */
