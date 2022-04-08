@@ -5,7 +5,7 @@
 
 <div >
 
-    <!-- Blog Entries Column -->
+    <!-- Blog Entries Columns -->
     <div class="col-md-8">
     <h1 class="page-header"><b>License details</b></h1>
          <?php 
